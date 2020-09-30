@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
     public Camera[] Cameras;
 
     // integer variables for sequence of events
-    int trial = 11;// for trial number (starts from 1)
+    int trial = 1;// for trial number (starts from 1)
     int RespIdentifier = 0;
     int BaselineSection = 0;
 
@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
     int interval = 18;
 
     readonly int[] testDuration = new int[2] { 15,60 };// specify array for different durations
-    readonly int[] DepTestDur = new int[3] { 360, 180, 360 };
+    readonly int[] DepTestDur = new int[3] { 360, 180, 180 };
     readonly int[] DepPracDur = new int[3] { 30, 15, 15 };
 
     bool depStart = false;
