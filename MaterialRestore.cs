@@ -5,7 +5,7 @@ using UnityEngine;
 public class MaterialRestore : MonoBehaviour
 {
     Material originalMat;
-
+    private int change = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,6 +14,7 @@ public class MaterialRestore : MonoBehaviour
 
     public void Restore()
     {
+        change = 1;
         GetComponent<Renderer>().material = originalMat;
     }
 }
