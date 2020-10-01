@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
     // integer variables for sequence of events
     int trial = 1;// for trial number (starts from 1)
     int RespIdentifier = 0;
-    int BaselineSection = 0;
+    int BaselineSection = 1;
 
     // integer variables for 
     int returnValue = 0;
