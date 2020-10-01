@@ -11,4 +11,5 @@ There are three main phases.
 I've originally tried to make this a standalone app, so you'll be presented with all the practice and experimental trials in consecutive order.
 Missing are controls and follow-ups which I want to conduct but will add on a later date. 
 
-Heads-up:  I've tried to include longer inter-trial intervals, but the experiment can still be very tiring.
+NB:  I've tried to include longer inter-trial intervals, but the experiment can still be very tiring. Also, stimuli are a little different from the original donut task, but should not, in theory, result in too much of a difference.
+
