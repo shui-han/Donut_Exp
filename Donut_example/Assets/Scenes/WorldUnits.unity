@@ -149,7 +149,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 611663738}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 3b1de8ed1f473d1449baf9ae8e789bf1, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: b3b73819727791e4588df502c3324093, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -278,7 +278,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 2076175300}
-  WorldUnitsInCamera: {x: 0, y: 0}
   Quad: {fileID: 611663738}
 --- !u!4 &919018043
 Transform:
@@ -551,7 +550,7 @@ Camera:
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
-  m_TargetEye: 3
+  m_TargetEye: 1
   m_HDR: 1
   m_AllowMSAA: 1
   m_AllowDynamicResolution: 0
