@@ -1,13 +1,13 @@
 ﻿using System.Collections;
 using UnityEngine;
 using System.IO;
-using UnityEngine.SceneManagement;
+//using UnityEngine.SceneManagement;
 
 
 public class GameManager : MonoBehaviour
 {
     //scene index
-    // readonly int sceneIdx =1; // 0 for experiment, 1 for retrieving world units for visual angle calculation
+   // readonly int sceneIdx =0; // 0 for experiment, 1 for retrieving world units for visual angle calculation
 
     // define variables
     private GameObject DisplayText;
