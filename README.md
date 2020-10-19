@@ -16,7 +16,7 @@ NB:  I've tried to include longer inter-trial intervals, but the experiment can 
 **** Instructions about running the project.
 
 ** Downloading project
-Option 1: clone the repository so that you can updates about changes in the code
+Option 1: clone the repository so that you can get updates about changes in the code
 Cloning steps are provided at:
 https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 
